@@ -6,7 +6,7 @@ This project performs Exploratory Data Analysis (EDA) on the Superstore Sales da
 🎯 Objective:-
 To analyze sales performance across different regions, categories, and customer segments and identify key business insights.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:-
 Python
 Pandas
 NumPy
@@ -28,5 +28,5 @@ South region has the highest average sales per order.
 Technology category drives the maximum revenue.
 Central region underperforms compared to other regions.
 
-Future Scope
+Future Scope:-
 This dataset can be extended into a Machine Learning regression problem by predicting sales based on customer and product features.
